@@ -1,9 +1,11 @@
+// +build !nomods
+
 package mobile
 
 import (
 	"fmt"
 
-	v2mod "github.com/triztian/gomobile-v2mod"
+	v2mod "github.com/triztian/gomobile-v2mod/v2"
 )
 
 // Main ...
